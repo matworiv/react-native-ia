@@ -22,3 +22,8 @@ Exibe o cartão gerado com badge de nível automático:
 Confirmação de que o cartão foi criado com sucesso.
 
 # Print
+
+![Tela de boas-vindas](prints/home.png)
+![Tela de cadastro](prints/cadastro.png)
+![Preview do cartão](prints/preview.png)
+![Tela de sucesso](prints/sucesso.png)
